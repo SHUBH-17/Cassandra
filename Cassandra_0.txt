@@ -1,0 +1,22 @@
+Cassandra
+-------------
+11-12 March 2023
+
+https://www.datastax.com/
+
+TRY FOR FREE
+Create a Database
+
+Database Name: cassandra-demo
+Keyspace Name: employee_keyspace
+Provider     : Google Cloud
+Region       : asia-south1
+
+Connect with the Python Driver (Download Bundle)
+Setting>>Token Management>>Role:Administrator User>>Generate Token --> generates '<<CLIENT ID>>' and '<<CLIENT SECRET>>'
+
+Open jupyter notebook
+
+
+----------------------------------------------------------------------
+
